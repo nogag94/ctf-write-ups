@@ -1,5 +1,7 @@
 # HackDefCTF Quals-2018 - Hashes (100 pts)
 
+> **Descripción:** *Puedes crackear los hashes y encontrar la bandera? Tranquilo, no debe tomar mucho tiempo crackearlos, te lo aseguramos.*
+
 El reto proporciona el archivo [Hashes.txt](./Hashes.txt) en el cual se observan lo que parecen ser hashes de tipo`md5` y `sha-256` separados por espacios. 
 
 Lo primero que podemos hacer es sustituir los espacios por saltos de línea con ayuda del comando `cut -d ' ' --output-delimiter=$'\n' -f 1- Hashes.txt` y redireccionando la salida a un nuevo txt o bien copiando el contenido en un word, excel, etc.
