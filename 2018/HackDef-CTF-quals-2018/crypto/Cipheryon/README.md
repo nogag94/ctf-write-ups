@@ -67,4 +67,4 @@ AFR MG CGKQ IAKR LG MIAM IT EGWSR ZT AL LWEETLLYWS AL AKAR CAL...YSAUOLAKARAKAKR
 and to work hard so that he could be as successful as Arad was...
 ~~~
 
-Finalmente, conociendo el mapeo de letras que se utilizó para el criptograma, se sustituyó la palabra restante `YSAUOLAKARAKAKRK` = `flagisaradarardr` y se encuentra la flag `flag{aradarardr}`.
+Finalmente, conociendo el mapeo de letras que se utilizó para el criptograma, se sustituyó la palabra restante `YSAUOLAKARAKAKRK` = `flagisaradarardr` y se encuentra la flag **`flag{aradarardr}`**.
