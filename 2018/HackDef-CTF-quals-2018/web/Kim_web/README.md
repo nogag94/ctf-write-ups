@@ -4,7 +4,7 @@
 
 * [**Kim_Web.zip**](./Kim-Web.zip)
 
-En los archivos que proporciona el reto, se encuentra el `index.html`. Revisando el código nos dimos cuenta de que una parte se encuentra en hexadecimal.
+En los archivos que proporciona el reto, se encuentra el `index.html`. Revisando el código nos dimos cuenta de que una parte se encuentra escrita en hexadecimal.
 
 <p align="center">
   <img src="./img/code.png">
