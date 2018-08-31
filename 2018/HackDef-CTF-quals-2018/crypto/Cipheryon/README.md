@@ -30,7 +30,7 @@ Después de algunos minutos de búsqueda se encontró la herramienta [Cryptogram
   <img src="./img/cryptogm2.png">
 </p>
 
-Una vez obtenidas esas cadenas en *texto claro*, se buscó en internet alguna pista sobre el texto detras del criptograma y se encontró el siguiente [extracto](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon_(book)#Work_is_the_key_to_golden_shekels)
+Una vez conocidas esas cadenas en *texto claro*, se buscó en internet alguna pista sobre el texto detras del criptograma y se encontró el siguiente [extracto](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon_(book)#Work_is_the_key_to_golden_shekels)
 
 <p align="center">
   <img src="./img/text.png">
@@ -67,4 +67,4 @@ AFR MG CGKQ IAKR LG MIAM IT EGWSR ZT AL LWEETLLYWS AL AKAR CAL...YSAUOLAKARAKAKR
 and to work hard so that he could be as successful as Arad was...
 ~~~
 
-Finalmente, conociendo el mapeo de letras que se utilizó para el criptograma, se sustituyó la palabra restante `YSAUOLAKARAKAKRK` = `flagisaradarardr` y se encuentra la flag **`flag{aradarardr}`**.
+Finalmente, conociendo el mapeo de letras que se utilizó para el criptograma, se sustituyó la palabra restante `YSAUOLAKARAKAKRK` = `flagisaradarardr` y se encuentra la bandera: **`flag{aradarardr}`**.
