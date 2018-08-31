@@ -16,7 +16,7 @@ Posteriormente se utilizó [CrackStation](https://crackstation.net) para poder c
   <img src="./img/crack1.png">
 </p>
 
-Unos hashes más adelante aparece la flag: **`flag{WELC0ME-T0-MEXICAN-H4SHES}`** 
+Unos hashes más adelante aparece la bandera: **`flag{WELC0ME-T0-MEXICAN-H4SHES}`** 
 
 <p align="center">
   <img src="./img/flag.png">
