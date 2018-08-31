@@ -2,7 +2,9 @@
 
 > **Descripción:** *Puedes identificar el criptograma utilizado?*
 
-El archivo [ciphertext](./ciphertext) que se proporciona muestra una serie de palabras intelegibles separadas por puntos y comas. Al separar el texto con saltos de línea podemos verlo de una mejor forma.
+* [ciphertext](./ciphertext)
+
+El archivo *ciphertext* muestra una serie de palabras intelegibles separadas por puntos y comas. Lo primero que realizamos fue agregar saltos de línea para poder observar el texto de forma ordenada...
 
 ~~~
 AKAR IAR TFGWUI DGFTB MG ZWB IOL YKTTRGD, 
