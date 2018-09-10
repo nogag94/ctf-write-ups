@@ -10,7 +10,7 @@ Al ingresar al sitio, se muestra la palabra `sam` cuyo `id=1`
   <img src="./img/home.png">
 </p>
 
-Al observar el codigo fuente, se observa el recurso `sam.jpg`. 
+En el codigo fuente, se observa el recurso `sam.jpg`. 
 
 <p align="center">
   <img src="./img/scode.png">
