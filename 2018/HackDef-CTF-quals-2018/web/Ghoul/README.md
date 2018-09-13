@@ -1,4 +1,4 @@
-# HackDefCTF Quals-2018 - Ghoul (100 pts)
+# HackDefCTF Quals-2018 - Ghoul (200 pts)
 
 > **Descripción:** *Será que estos Z0mbies te detendran a encontrar la vulnerabilidad?*
 
