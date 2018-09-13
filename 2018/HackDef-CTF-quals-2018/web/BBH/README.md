@@ -7,7 +7,7 @@
 Al ingresar al sitio, se observan 3 links a `home`, `about` y `contact` los cuales muestran contenido diferente, pero nada de utilidad que nos lleve a la bandera..
 
 <p align="center">
-  <img src="./img/home.png">
+  <img src="./img/Home.png">
 </p>
 
 Revisando el código fuente, observamos que hay un comentario de un `href` hacia `secret`, sin embargo si tratamos de ingresar modificando la url pero nos redirigia al home del sitio. 
