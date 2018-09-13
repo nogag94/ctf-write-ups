@@ -13,7 +13,7 @@ Al ingresar al sitio, se observan 3 links a `home`, `about` y `contact` los cual
 Revisando el código fuente, observamos que hay un comentario de un `href` hacia `secret`, sin embargo si tratamos de ingresar modificando la url pero nos redirigia al home del sitio. 
 
 <p align="center">
-  <img src="./img/scode.png">
+  <img src="./img/code.png">
 </p>
 
 Una vez inspeccionado el sitio manualmente , por medio de burp lanzamos un *spider* para ver si podía localizar `secret`, sin embargo nos encontramos con algo de bastante utilidad...`robots.txt`
