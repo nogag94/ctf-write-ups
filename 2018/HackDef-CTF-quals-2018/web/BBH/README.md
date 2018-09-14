@@ -1,6 +1,6 @@
 # HackDefCTF Quals-2018 - BBH (300 pts)
 
-> **Descripción:** *The BBH is a Bugs Killer *
+> **Descripción:** *The BBH is a Bugs Killer*
 
 * http://www.hackdef.net:8070/
 
